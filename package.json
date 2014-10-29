@@ -1,0 +1,22 @@
+{
+  "name": "changelog-io",
+  "version": "1.0.0",
+  "author": "coderaiser <mnemonic.enemy@gmail.com> (https://github.com/coderaiser)",
+  "description": "Generate changelog",
+  "homepage": "http://cloudcmd.io",
+  "bin": {
+    "changelog": "bin/changelog.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/coderaiser/changelog-io.git"
+  },
+  "keywords": [
+    "changelog"
+  ],
+  "dependencies": {
+    "util-io": "~1.4.0",
+    "minimist": "1.1.0"
+  },
+  "license": "MIT"
+}
