@@ -12,11 +12,11 @@ npm i changelog-io -g
 
 If you already have tags and use conventions like this:
 
-- feature(<scrope>) <command message>
-- fix(<scope>) <commit message>
-- docs(<scope>) <commit message>
-- chore(<scope>) <commit message>
-- refactor(<scope>) <commit message>
+- feature(scrope) command message
+- fix(scope) commit message
+- docs(scope) commit message
+- chore(scope) commit message
+- refactor(scope) commit message
 
 `feature` and `fix` commit messages from previous
 tag would be got and puted to `ChangeLog` file.
@@ -25,7 +25,7 @@ tag would be got and puted to `ChangeLog` file.
 
 ```
 changelog           # to log output
-changelog <version> # to save output to ChangeLog
+changelog version # to save output to ChangeLog
 ```
 
 ## License
