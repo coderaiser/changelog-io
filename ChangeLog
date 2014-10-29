@@ -1,0 +1,6 @@
+2014.10.29, v1.1.0
+
+feature:
+- (changelog) if !versionNew no need in ","
+- (changelog) head: if !versionNew put empty string
+- (changelog) -v, --v -> <version>
