@@ -16,7 +16,7 @@
         Info        = tryRequire(DIR + '/package', {log: true});
         
     if (Info)
-        start(argv.v || argv.version);
+        start(argv._[0]);
             
     function start(versionNew) {
         var isV         = /^v/.test(versionNew),
@@ -77,7 +77,7 @@
                     if (error)
                         console.error(error);
                     else if (!data)
-                        console.log('No new feature and fix commits from v', version);
+                        console.log('No new feature and fix commits from', version);
                     else if (!versionNew)
                         console.log(data);
                     else

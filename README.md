@@ -24,7 +24,8 @@ tag would be got and puted to `ChangeLog` file.
 ## How to use?
 
 ```
-changelog -v <version>
+changelog           # to log output
+changelog <version> # to save output to ChangeLog
 ```
 
 ## License
