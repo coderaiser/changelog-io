@@ -47,8 +47,13 @@
                         DATA        = 0,
                         STD_ERR     = 1,
                         date        = Util.getShortDate(),
-                        head        = date + ', ' + (versionNew || '') + '\n\n',
+                        head        = date,
                         data        = '';
+                        
+                    if (versionNew)
+                        head       += ', ' + versionNew;
+                    
+                    head            += '\n\n';
                     
                     if (!error) {
                         fix         = fixData[DATA];
@@ -68,7 +73,7 @@
                             data    += feature      + '\n';
                         }
                         
-                        if (fileData)
+                        if (fileData && versionNew)
                             data        += '\n\n' + fileData;
                     }
                     
