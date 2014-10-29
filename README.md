@@ -25,7 +25,7 @@ tag would be got and puted to `ChangeLog` file.
 
 ```
 changelog           # to log output
-changelog version # to save output to ChangeLog
+changelog version   # to save output to ChangeLog
 ```
 
 ## License
