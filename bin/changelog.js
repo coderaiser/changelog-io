@@ -47,7 +47,7 @@
                         DATA        = 0,
                         STD_ERR     = 1,
                         date        = Util.getShortDate(),
-                        head        = date + ', ' + versionNew + '\n\n',
+                        head        = date + ', ' + (versionNew || '') + '\n\n',
                         data        = '';
                     
                     if (!error) {
