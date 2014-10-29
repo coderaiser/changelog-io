@@ -11,7 +11,7 @@
         
         argv        = require('minimist')(process.argv.slice(2)),
         
-        tryRequire  = require('../lib/tryRequire'),
+        tryRequire  = require('tryrequire'),
         
         Info        = tryRequire(DIR + '/package', {log: true});
         
