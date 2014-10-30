@@ -65,16 +65,16 @@
                         
                         if (fix) {
                             data    += 'fix:'       + '\n';
-                            data    += fix          + '\n';
+                            data    += fix          + '\n\n';
                         }
                         
                         if (feature) {
                             data    += 'feature:'   + '\n';
-                            data    += feature      + '\n';
+                            data    += feature      + '\n\n';
                         }
                         
                         if (fileData && versionNew)
-                            data        += '\n\n' + fileData;
+                            data        += '\n' + fileData;
                     }
                     
                     error   = error || fixData[STD_ERR] || featureData[STD_ERR];
