@@ -19,13 +19,13 @@ If you already have tags and use conventions like this:
 - refactor(scope) commit message
 
 `feature` and `fix` commit messages from previous
-tag would be got and puted to `ChangeLog` file.
+tag would be print out to screen.
 
 ## How to use?
 
 ```
-changelog           # to log output
-changelog version   # to save output to ChangeLog
+changelog                       # to log output
+changelog version > ChangeLog   # to save output to ChangeLog
 ```
 
 ## License
