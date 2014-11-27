@@ -1,3 +1,9 @@
+2014.11.27, v1.3.1
+
+fix:
+- (changelog) generated only if now version
+
+
 2014.11.27, v1.3.0
 
 feature:
