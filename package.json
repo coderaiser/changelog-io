@@ -17,6 +17,7 @@
   ],
   "dependencies": {
     "minimist": "1.1.0",
+    "rendy": "~1.0.0",
     "tryrequire": "~1.0.0",
     "util-io": "~1.6.1"
   },
