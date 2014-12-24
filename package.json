@@ -16,6 +16,7 @@
     "changelog"
   ],
   "dependencies": {
+    "execon": "~1.0.1",
     "minimist": "1.1.0",
     "rendy": "~1.0.0",
     "tryrequire": "~1.0.0",
