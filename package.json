@@ -16,7 +16,7 @@
     "changelog"
   ],
   "dependencies": {
-    "execon": "~1.0.1",
+    "execon": "~1.1.0",
     "minimist": "1.1.0",
     "rendy": "~1.0.0",
     "shortdate": "~1.0.0",
