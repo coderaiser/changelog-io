@@ -1,7 +1,7 @@
 2015.08.25, v1.4.1
 
 fix:
-- fix(changelog) regexp: \b -> \\b
+- (changelog) regexp: \b -> \\b
 
 
 2015.08.12, v1.4.0
