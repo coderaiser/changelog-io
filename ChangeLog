@@ -1,3 +1,10 @@
+2016.02.21, v1.4.4
+
+feature:
+- (package) ~ -> ^
+- (package) shortdate v1.2.0
+
+
 2016.02.20, v1.4.3
 
 feature:
