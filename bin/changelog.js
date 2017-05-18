@@ -2,12 +2,12 @@
 
 'use strict';
 
-var changelog   = require('../lib/changelog'),
-    argv        = require('minimist')(process.argv.slice(2));
+const changelog = require('../lib/changelog');
+const argv = require('minimist')(process.argv.slice(2));
 
-changelog(argv._[0], function(error, msg) {
+changelog(argv._[0], (error, msg) => {
     if (error)
-        console.error(error.message);
-    else
-        console.log(msg);
+        return console.error(error.message);
+    
+    console.log(msg);
 });
