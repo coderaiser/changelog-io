@@ -20,7 +20,7 @@
     "execon": "^1.2.0",
     "minimist": "^1.2.0",
     "read-pkg-up": "^3.0.0",
-    "rendy": "^1.1.0",
+    "rendy": "^2.0.0",
     "shortdate": "^1.2.0"
   },
   "engines": {
