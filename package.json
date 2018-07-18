@@ -15,6 +15,9 @@
   "keywords": [
     "changelog"
   ],
+  "scripts": {
+    "lint": "eslint lib"
+  },
   "dependencies": {
     "currify": "^2.0.3",
     "execon": "^1.2.0",
@@ -26,5 +29,9 @@
   "engines": {
     "node": ">=6"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.1.0",
+    "eslint-plugin-node": "^7.0.1"
+  }
 }
