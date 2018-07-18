@@ -24,7 +24,7 @@
     "shortdate": "^1.2.0"
   },
   "engines": {
-    "node": ">=4"
+    "node": ">=6"
   },
   "license": "MIT"
 }
