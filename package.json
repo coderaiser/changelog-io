@@ -27,7 +27,7 @@
     "shortdate": "^1.2.0"
   },
   "engines": {
-    "node": ">=6"
+    "node": ">=8"
   },
   "license": "MIT",
   "devDependencies": {
