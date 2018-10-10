@@ -1,3 +1,11 @@
+2018.10.10, v4.0.0
+
+feature:
+- (changelog) drop support of node < 8
+- (package) currify v3.0.0
+- (package) add eslint
+
+
 2018.07.18, v3.0.0
 
 feature:
