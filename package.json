@@ -22,7 +22,7 @@
     "currify": "^3.0.0",
     "execon": "^1.2.0",
     "minimist": "^1.2.0",
-    "read-pkg-up": "^4.0.0",
+    "read-pkg-up": "^6.0.0",
     "rendy": "^3.0.1",
     "shortdate": "^1.2.0"
   },
