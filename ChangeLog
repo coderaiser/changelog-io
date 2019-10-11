@@ -1,3 +1,11 @@
+2019.10.11, v4.0.2
+
+feature:
+- (package) read-pkg-up v7.0.0
+- (package) putout v6.13.0
+- (package) currify v4.0.0
+
+
 2019.09.06, v4.0.1
 
 feature:
