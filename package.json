@@ -34,7 +34,7 @@
   "devDependencies": {
     "eslint": "^6.3.0",
     "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-putout": "^2.0.0",
+    "eslint-plugin-putout": "^3.5.0",
     "madrun": "^3.0.1",
     "putout": "^6.13.0"
   }
