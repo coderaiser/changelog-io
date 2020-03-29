@@ -36,6 +36,6 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-putout": "^3.5.0",
     "madrun": "^5.4.5",
-    "putout": "^6.13.0"
+    "putout": "^7.20.2"
   }
 }
