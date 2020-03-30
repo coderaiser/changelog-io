@@ -1,3 +1,13 @@
+2020.03.30, v5.0.0
+
+feature:
+- (changelog-io) callback -> promise
+- (package) putout v7.20.2
+- (package) madrun v5.4.5
+- (package) eslint-plugin-putout v3.5.0
+- (package) eslint-plugin-node v11.1.0
+
+
 2019.10.11, v4.0.2
 
 feature:
