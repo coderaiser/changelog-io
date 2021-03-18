@@ -1,3 +1,15 @@
+2021.03.18, v5.0.1
+
+fix:
+- (changelog) move upper stderr check
+
+feature:
+- (package) eslint v7.22.0
+- (package) eslint-plugin-putout v7.3.1
+- (package) putout v15.8.0
+- (package) madrun v8.8.1
+
+
 2020.03.30, v5.0.0
 
 feature:
