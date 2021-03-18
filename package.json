@@ -33,7 +33,7 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^6.3.0",
+    "eslint": "^7.22.0",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-putout": "^7.3.1",
     "madrun": "^8.8.1",
