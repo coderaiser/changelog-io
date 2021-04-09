@@ -1,3 +1,8 @@
+2021.04.09, v5.1.2
+fix:
+- (changelog) add \n
+
+
 2021.03.26, v5.1.1
 fix:
 - (changelog) \n\n -> \n
