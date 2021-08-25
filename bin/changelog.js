@@ -1,18 +1,15 @@
 #!/usr/bin/env node
 
-'use strict';
+import minimist from 'minimist';
+import tryToCatch from 'try-to-catch';
+import changelog from '../lib/changelog.js';
 
-const argv = require('minimist')(process.argv.slice(2));
-const tryToCatch = require('try-to-catch');
+const argv = minimist(process.argv.slice(2));
 
-const changelog = require('../lib/changelog');
+const [error, msg] = await tryToCatch(changelog, argv._[0]);
 
-(async () => {
-    const [error, msg] = await tryToCatch(changelog, argv._[0]);
-    
-    if (error)
-        return console.error(error.message);
-    
-    console.log(msg);
-})();
+if (error)
+    process.exit();
+
+console.log(msg);
 
