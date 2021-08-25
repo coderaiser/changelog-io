@@ -8,8 +8,10 @@ const argv = minimist(process.argv.slice(2));
 
 const [error, msg] = await tryToCatch(changelog, argv._[0]);
 
-if (error)
+if (error) {
+    console.error(error.message);
     process.exit();
+}
 
-console.log(msg);
+process.stdout.write(msg);
 
