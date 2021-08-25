@@ -1,4 +1,15 @@
-# ChangeLog
+# ChangeLog [![License][LicenseIMGURL]][LicenseURL] [![NPM version][NPMIMGURL]][NPMURL] [![Dependency Status][DependencyStatusIMGURL]][DependencyStatusURL] [![Build Status][BuildStatusIMGURL]][BuildStatusURL] [![Coverage Status][CoverageIMGURL]][CoverageURL]
+
+[NPMIMGURL]: https://img.shields.io/npm/v/changelog-io.svg?style=flat
+[DependencyStatusIMGURL]: https://img.shields.io/david/coderaiser/changelog-io.svg?style=flat
+[BuildStatusURL]: https://github.com/coderaiser/changelog-io/actions?query=workflow%3A%22Node+CI%22 "Build Status"
+[BuildStatusIMGURL]: https://github.com/coderaiser/changelog-io/workflows/Node%20CI/badge.svg
+[LicenseIMGURL]: https://img.shields.io/badge/license-MIT-317BF9.svg?style=flat
+[NPMURL]: https://npmjs.org/package/changelog-io "npm"
+[DependencyStatusURL]: https://david-dm.org/coderaiser/changelog-io "Dependency Status"
+[LicenseURL]: https://tldrlegal.com/license/mit-license "MIT License"
+[CoverageURL]: https://coveralls.io/github/coderaiser/changelog-io?branch=master
+[CoverageIMGURL]: https://coveralls.io/repos/coderaiser/changelog-io/badge.svg?branch=master&service=github
 
 Generate changelog with one command.
 
@@ -42,10 +53,9 @@ feature:
 - (package) eslint-plugin-putout v9.2.1
 - (package) putout v19.0.0
 - (changelog) convert ot ESM
-`
+`;
 ```
 
 ## License
 
 MIT
-
