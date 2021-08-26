@@ -31,7 +31,6 @@
   },
   "dependencies": {
     "currify": "^4.0.0",
-    "execon": "^1.2.0",
     "minimist": "^1.2.0",
     "read-pkg-up": "^8.0.0",
     "rendy": "^3.0.1",
