@@ -51,7 +51,7 @@ changelog version > ChangeLog   # to save output to ChangeLog
 ```js
 import changelog from 'changelog-io';
 
-await changelog('v1.0.0');
+changelog('v1.0.0');
 // returns
 `
 2021.08.25
