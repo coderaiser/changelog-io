@@ -32,7 +32,7 @@
   "dependencies": {
     "currify": "^4.0.0",
     "minimist": "^1.2.0",
-    "read-pkg-up": "^8.0.0",
+    "read-pkg-up": "^9.0.0",
     "rendy": "^3.0.1",
     "shortdate": "^2.0.0",
     "try-catch": "^3.0.0"
