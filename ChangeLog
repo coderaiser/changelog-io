@@ -1,3 +1,15 @@
+2021.11.25, v6.0.7
+
+feature:
+- (package) eslint v8.3.0
+- (package) eslint-plugin-putout v11.15.1
+- (package) putout v22.1.1
+- (package) read-pkg-up v9.0.0
+- (package) eslint-plugin-putout v10.0.1
+- (package) putout v20.0.1
+- (package) mock-import v2.0.0
+
+
 2021.09.01, v6.0.6
 
 fix:
