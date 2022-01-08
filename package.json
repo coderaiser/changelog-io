@@ -43,6 +43,7 @@
   "license": "MIT",
   "devDependencies": {
     "c8": "^7.8.0",
+    "escover": "^1.0.1",
     "eslint": "^8.3.0",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-putout": "^12.2.0",
@@ -50,6 +51,7 @@
     "mock-import": "^2.0.0",
     "montag": "^1.2.1",
     "putout": "^22.1.1",
-    "supertape": "^6.0.5"
+    "supertape": "^6.0.5",
+    "zenload": "^1.2.0"
   }
 }
