@@ -14,6 +14,7 @@ const coverageEnv = {
 
 export default {
     'test': () => [testEnv, `tape 'test/**/*.js' 'lib/**/*.spec.js'`],
+    'posttest': () => 'escover',
     'coverage': async () => [coverageEnv, `c8 --exclude="lib/**/{fixture,*.spec.js}" ${await cutEnv('test')}`],
     'lint': () => 'putout .',
     'fresh:lint': () => run('lint', '--fresh'),
