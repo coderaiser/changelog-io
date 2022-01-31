@@ -1,3 +1,16 @@
+2022.01.31, v6.0.8
+
+fix:
+- changelog: newlines
+
+
+feature:
+- (package) putout v24.1.0
+- (package) eslint-plugin-putout v13.4.0
+- (package) putout v23.7.0
+- (package) eslint-plugin-putout v12.2.0
+
+
 2021.11.25, v6.0.7
 
 feature:
