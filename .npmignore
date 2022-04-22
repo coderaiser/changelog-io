@@ -3,3 +3,4 @@
 *.spec.js
 yarn-error.log
 coverage*
+coverage

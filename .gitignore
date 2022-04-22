@@ -3,3 +3,4 @@ npm-debug.log
 *.swp
 yarn-error.log
 coverage
+.idea
