@@ -52,6 +52,6 @@
     "montag": "^1.2.1",
     "putout": "^24.1.0",
     "supertape": "^6.0.5",
-    "zenload": "^1.2.0"
+    "zenload": "^2.0.0"
   }
 }
