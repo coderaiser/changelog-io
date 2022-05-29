@@ -25,7 +25,7 @@ jobs:
       - name: Lint
         run: redrun lint
       - name: Coverage
-        run: redrun coverage report
+        run: redrun test
       - name: Coveralls
         uses: coverallsapp/github-action@master
         with:

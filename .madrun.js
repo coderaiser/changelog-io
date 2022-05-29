@@ -1,7 +1,7 @@
 import {run} from 'madrun';
 
 const env = {
-    NODE_OPTIONS: '"--loader mock-import --enable-source-maps"',
+    NODE_OPTIONS: '"--loader mock-import"',
 };
 
 export default {
