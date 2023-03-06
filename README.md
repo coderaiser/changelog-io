@@ -55,9 +55,9 @@ changelog('v1.0.0');
 2021.08.25
 
 feature:
-- (package) eslint-plugin-putout v9.2.1
-- (package) putout v19.0.0
-- (changelog) convert ot ESM
+- a1d0d14 (package) eslint-plugin-putout v9.2.1
+- a1d0d15 (package) putout v19.0.0
+- a1d0d16  (changelog) convert ot ESM
 `;
 ```
 
