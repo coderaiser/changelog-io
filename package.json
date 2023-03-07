@@ -4,7 +4,6 @@
   "author": "coderaiser <mnemonic.enemy@gmail.com> (https://github.com/coderaiser)",
   "description": "Generate changelog",
   "main": "lib/changelog.js",
-  "commitType": "colon",
   "type": "module",
   "bin": {
     "changelog": "bin/changelog.js"
