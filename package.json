@@ -46,7 +46,7 @@
     "escover": "^3.3.2",
     "eslint": "^8.3.0",
     "eslint-plugin-n": "^15.6.1",
-    "eslint-plugin-putout": "^16.9.0",
+    "eslint-plugin-putout": "^17.7.0",
     "madrun": "^9.0.2",
     "mock-import": "^3.0.1",
     "montag": "^1.2.1",
