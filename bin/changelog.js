@@ -14,4 +14,3 @@ if (error) {
 }
 
 process.stdout.write(msg);
-

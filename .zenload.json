@@ -1,4 +1,1 @@
-[
-    "escover",
-    "mock-import"
-]
+["escover", "mock-import"]
