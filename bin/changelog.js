@@ -2,6 +2,7 @@
 
 import minimist from 'minimist';
 import tryCatch from 'try-catch';
+import process from 'node:process';
 import changelog from '../lib/changelog.js';
 
 const argv = minimist(process.argv.slice(2));
