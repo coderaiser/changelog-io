@@ -1,6 +1,6 @@
 {
   "name": "changelog-io",
-  "version": "8.2.0",
+  "version": "8.3.0",
   "author": "coderaiser <mnemonic.enemy@gmail.com> (https://github.com/coderaiser)",
   "description": "Generate changelog",
   "main": "lib/changelog.js",
@@ -12,7 +12,9 @@
     "type": "git",
     "url": "git://github.com/coderaiser/changelog-io.git"
   },
-  "keywords": ["changelog"],
+  "keywords": [
+    "changelog"
+  ],
   "scripts": {
     "test": "madrun test",
     "coverage": "madrun coverage",
