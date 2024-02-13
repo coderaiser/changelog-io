@@ -1,3 +1,17 @@
+2024.02.13, v9.0.0
+
+feature:
+- d3e6212 changelog-io: drop support of node < 18
+- bc5dee6 changelog-io: read-pkg-up v11.0.0
+- d79655d changelog-io: eslint-plugin-putout v22.3.1
+- 02fbd0a changelog-io: escover v4.1.0
+- 09c9628 changelog-io: c8 v9.1.0
+- e6aa539 changelog-io: madrun v10.0.1
+- 0aa44bd changelog-io: mock-import v4.0.3
+- 2b2e509 changelog-io: putout v35.0.7
+- e10acfb changelog-io: supertape v10.0.0
+- 15a7e7a changelog-io: zenload v3.0.0
+
 2023.10.12, v8.4.0
 
 feature:
