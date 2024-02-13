@@ -1,3 +1,8 @@
+2024.02.13, v9.0.2
+
+feature:
+- 8cb2d67 changelog: get rid of mock-import
+
 2024.02.13, v9.0.1
 
 feature:
