@@ -1,3 +1,12 @@
+2024.04.28, v9.1.0
+
+feature:
+- 3471364 changelog-io: eslint v9.1.1
+- a820d39 changelog-io: eslint-plugin-n v17.3.1
+- ec873b9 changelog-io: escover -> c8
+- b50a1fb changelog-io: regexp
+- 2f2fca9 changelog-io: eslint-plugin-n v17.3.1
+
 2024.02.14, v9.0.3
 
 feature:
