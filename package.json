@@ -12,9 +12,7 @@
     "type": "git",
     "url": "git://github.com/coderaiser/changelog-io.git"
   },
-  "keywords": [
-    "changelog"
-  ],
+  "keywords": ["changelog"],
   "scripts": {
     "test": "madrun test",
     "coverage": "madrun coverage",
@@ -49,6 +47,7 @@
     "madrun": "^10.0.1",
     "montag": "^1.2.1",
     "putout": "^35.0.7",
+    "redlint": "^3.14.1",
     "supertape": "^10.0.0",
     "zenload": "^3.0.0"
   }

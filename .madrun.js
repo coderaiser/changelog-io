@@ -1,12 +1,9 @@
-import {
-    run,
-    cutEnv,
-} from 'madrun';
+import {run} from 'madrun';
 
 export default {
     'test': () => `tape 'test/**/*.js' 'lib/**/*.spec.js'`,
-    'coverage': async () => `c8 ${await cutEnv('test')}`,
-    'inspect': async () => [env, `node-inspect lib/changelog.spec.js`],
+    'coverage': async () => `c8 ${await run('test')}`,
+    'inspect': async () => `node-inspect lib/changelog.spec.js`,
     'lint': () => 'putout .',
     'fresh:lint': () => run('lint', '--fresh'),
     'lint:fresh': () => run('lint', '--fresh'),
