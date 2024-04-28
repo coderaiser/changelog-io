@@ -12,7 +12,9 @@
     "type": "git",
     "url": "git://github.com/coderaiser/changelog-io.git"
   },
-  "keywords": ["changelog"],
+  "keywords": [
+    "changelog"
+  ],
   "scripts": {
     "test": "madrun test",
     "coverage": "madrun coverage",
