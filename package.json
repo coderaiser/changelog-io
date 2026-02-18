@@ -48,7 +48,7 @@
     "eslint-plugin-putout": "^31.0.0",
     "madrun": "^13.0.0",
     "montag": "^1.2.1",
-    "putout": "^35.0.7",
+    "putout": "^42.0.5",
     "redlint": "^3.14.1",
     "supertape": "^10.0.0",
     "zenload": "^3.0.0"
