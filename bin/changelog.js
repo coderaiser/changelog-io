@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 
-import minimist from 'minimist';
-import tryCatch from 'try-catch';
 import process from 'node:process';
+import minimist from 'minimist';
+import {tryCatch} from 'try-catch';
 import changelog from '../lib/changelog.js';
 
 const argv = minimist(process.argv.slice(2));
