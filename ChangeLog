@@ -1,3 +1,19 @@
+2026.02.18, v10.0.0
+
+feature:
+- b51495a export: default -> named
+- 06b2d24 changelog-io: drop support of node < 22
+- 6ca4b29 changelog-io: try-catch v4.0.9
+- 7caefd8 changelog-io: supertape v12.5.0
+- ca3b121 changelog-io: rendy v5.0.0
+- 78de3ee changelog-io: redlint v6.0.0
+- 246fd5a changelog-io: read-package-up v12.0.0
+- a204e61 changelog-io: putout v42.0.5
+- 8caa249 changelog-io: madrun v13.0.0
+- 6fa07a2 changelog-io: eslint-plugin-putout v31.0.0
+- e273b03 changelog-io: eslint v10.0.0
+- 57a55d7 changelog-io: c8 v10.1.3
+
 2024.04.28, v9.1.0
 
 feature:
