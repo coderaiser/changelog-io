@@ -50,7 +50,7 @@
     "montag": "^1.2.1",
     "putout": "^42.0.5",
     "redlint": "^6.0.0",
-    "supertape": "^10.0.0",
+    "supertape": "^12.5.0",
     "zenload": "^3.0.0"
   }
 }
