@@ -47,7 +47,7 @@ changelog version > ChangeLog   # to save output to ChangeLog
 ## API
 
 ```js
-import changelog from 'changelog-io';
+import {changelog} from 'changelog-io';
 
 changelog('v1.0.0');
 // returns
